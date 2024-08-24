@@ -1,0 +1,23 @@
+{
+    "name": "etiming",
+    "version": "1.1.1",
+    "description": "Measure the time taken to execute a command",
+    "type": "module",
+    "main": "./src/main.js",
+    "bin": {
+        "etime": "src/cli.js"
+    },
+    "scripts": {
+        "test": "etime echo \"Hello World!\""
+    },
+    "keywords": [],
+    "author": "kianog",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "commander": "^12.1.0"
+    },
+    "devDependencies": {
+        "@types/node": "^22.5.0"
+    }
+}
