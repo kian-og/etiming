@@ -1,6 +1,7 @@
 ## Etiming
 
 Etiming is a lightweight and straightforward package designed to help you measure the execution time of commands with ease.
+[See npm page ](https://www.npmjs.com/package/etiming "See npm page ")
 
 ## Installation
 
